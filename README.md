@@ -7,5 +7,5 @@ Member:
 3. Adila Amanda(17.63.08561)
 4. Zona Kalabi(17.63.08849)
 5. Arya Tresnawinadi(17.63.08600)
-6. Sendi Chandra Dewi(17.63.08648)
-7. Farsya Diva Azkaleta (17.63.08818)
+6. Sendi Chandra Dewi(17.63.08818)
+7. Farsya Diva Azkaleta (17.63.08648)
